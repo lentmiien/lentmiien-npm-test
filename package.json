@@ -1,0 +1,22 @@
+{
+  "name": "@lentmiien/lentmiien-npm-test",
+  "version": "0.1.0",
+  "description": "Testing out npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lentmiien/lentmiien-npm-test.git"
+  },
+  "keywords": [
+    "lentmiien"
+  ],
+  "author": "Lennart Granstrom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lentmiien/lentmiien-npm-test/issues"
+  },
+  "homepage": "https://github.com/lentmiien/lentmiien-npm-test#readme"
+}
